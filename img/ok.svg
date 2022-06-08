@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="ok.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="10.875"
+     inkscape:cy="29.6875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#004c90;fill-opacity:1;fill-rule:nonzero;stroke-width:1.08524"
+       id="rect846"
+       width="1.5445008"
+       height="7.5525856"
+       x="-3.6640675"
+       y="4.1227522"
+       transform="matrix(0.60687057,-0.79480067,0.56829016,0.82282823,0,0)" />
+    <rect
+       style="fill:#004c90;fill-opacity:1;fill-rule:nonzero;stroke-width:1.0902"
+       id="rect1044"
+       width="1.4709899"
+       height="13.998954"
+       x="10.16441"
+       y="-10.327039"
+       transform="matrix(0.56672944,0.82390396,-0.58677651,0.80974893,0,0)" />
+  </g>
+</svg>
